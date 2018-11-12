@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@repo.vsgsoft.com:ip-helper"
+    "url": "git@github.com:pbardov/lead-ip-helper.git"
   },
   "keywords": [
     "ip",

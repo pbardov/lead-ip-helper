@@ -1,5 +1,5 @@
 {
-  "name": "ip-helper",
+  "name": "lead-ip-helper",
   "version": "1.0.0",
   "description": "Nodejs IP address manipulation library",
   "main": "index.js",
